@@ -9,6 +9,8 @@ dist-ssr
 npm-debug.log*
 yarn-error.log*
 .vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
 .idea
 .vscode/*
 !.vscode/extensions.json
